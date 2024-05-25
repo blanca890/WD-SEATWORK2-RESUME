@@ -59,11 +59,22 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
+Developed a fully responsive and interactive personal resume website hosted on GitHub. The website serves as a comprehensive online portfolio, showcasing professional experience, skills, projects, and educational background.
+
 Guiding Question:
 - What is the project
+Developed a fully responsive personal resume website using HTML, CSS, and JavaScript. This website serves as an online portfolio, showcasing my professional experience, skills, projects, and educational background.
+
 - Whats the purpose
+The primary purpose of this project is to create a professional online presence that can be shared with potential employers and professional networks. The website aims to highlight my qualifications, work experience, and personal projects in an organized and visually appealing manner.
 - What are key components
+1.Features a professional photo of the website owner.
+2.Includes a concise summary introducing the website owner and their primary areas of expertise or interests.
+3.Provides navigation links to other sections of the website for further exploration.
 - What technology used and how it is used
+1.HTML: Structured the content of the home page, including headings, paragraphs, and image elements.
+2.CSS: Styled the home page to create a visually appealing layout, including the positioning and styling of the photo and text.
+3.JavaScript: Enhanced the home page with interactive elements such as smooth scrolling or dynamic content updates
 
 ### Key Components
 <!-- TODO: List of Key Components -->
