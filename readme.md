@@ -80,8 +80,8 @@ Guiding Question:
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Interactive Elements
+- Smooth Scrolling
 
 ### Technology
 <!-- TODO: List of Technology Used -->
