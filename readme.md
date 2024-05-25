@@ -4,16 +4,16 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/blanca890">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="" alt="Nyebe" width="130" height="100">
+    <img src="/assets/img/LOGO.jpg" alt="Logo" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">My Resume</h3>
+  <h3 align="center">My Porfolio</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  My website resume
+  Discover my online portfolio, showcasing a blend of creativity and expertise through my diverse projects.
 </div>
 
 <br />
